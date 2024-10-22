@@ -1,0 +1,22 @@
+{
+  "name": "playwright-ui-test-digitalskola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilhambakri/playwright-ui-test-digitalskola.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilhambakri/playwright-ui-test-digitalskola/issues"
+  },
+  "homepage": "https://github.com/ilhambakri/playwright-ui-test-digitalskola#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.8"
+  }
+}
